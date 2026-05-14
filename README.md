@@ -4,6 +4,8 @@ A cloud-native infrastructure monitoring platform built using React.js, TypeScri
 
 The dashboard visualizes infrastructure telemetry, service health metrics, operational alerts, and infrastructure analytics in real time through interactive charts and monitoring panels.
 
+![Alt text](/screenshots/dashboard.png)
+
 ---
 
 ## Features
